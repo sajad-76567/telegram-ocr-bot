@@ -1,0 +1,2 @@
+# telegram-ocr-bot
+photoreader
